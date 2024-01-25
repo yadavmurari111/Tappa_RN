@@ -1,0 +1,69 @@
+[
+  {
+    "order": 0,
+    "buttonType": "brand",
+    "useTint": false,
+    "iconResource": "kb_toolbar_items_logo",
+    "url": "tappa-swiftui://"
+  },
+  {
+    "order": 1,
+    "buttonType": "tappaText",
+    "useTint": true,
+    "iconResource": "mocha_tappa_text_icon"
+  },
+    {
+      "order": 2,
+      "buttonType": "embeddedBrowser",
+      "useTint": true,
+      "iconResource": "tappa_browser"
+    },
+  {
+    "order": 3,
+    "buttonType": "stickers",
+    "useTint": true,
+    "iconResource": "kb_toolbar_items_repository_2"
+  },
+  {
+    "order": 4,
+    "buttonType": "gifs",
+    "useTint": true,
+    "iconResource": "kb_toolbar_items_repository_1"
+  },
+  {
+    "order": 5,
+    "buttonType": "socialHub",
+    "useTint": true,
+    "iconResource": "kb_toolbar_items_repository_3",
+    "include": [
+        "twitch",
+        "tiktok",
+        "facebook",
+        "instagram",
+        "rss"
+    ],
+    "title": "social hub title"
+  },
+  {
+    "order": 6,
+    "buttonType": "webLink",
+    "useTint": true,
+    "iconResource": "kb_toolbar_items_repository_4",
+    "url": "https://www.tappa.com",
+    "title": "weblink"
+  },
+  {
+    "order": 7,
+    "buttonType": "themes",
+    "useTint": true,
+    "iconResource": "kb_more_items_repository_1",
+    "title": "Themes"
+  },
+  {
+    "order": 8,
+    "buttonType": "settings",
+    "useTint": true,
+    "iconResource": "kb_more_items_repository_3",
+    "title": "Settings"
+  }
+]

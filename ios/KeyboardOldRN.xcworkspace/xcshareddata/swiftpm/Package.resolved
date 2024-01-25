@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "package-tappa-ios-binary-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://bitbucket.org/tappa-keyboards/package-tappa-ios-binary-sdk.git",
+      "state" : {
+        "revision" : "a43ccc91cae6f89fb216aa2f6c5e118381dc15b3",
+        "version" : "3.66.0"
+      }
+    }
+  ],
+  "version" : 2
+}

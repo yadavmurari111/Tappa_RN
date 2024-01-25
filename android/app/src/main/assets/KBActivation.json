@@ -1,0 +1,28 @@
+{
+    "slides": [
+        {
+            "order": 0,
+            "title": "mocha_benefits_slides_1_title",
+            "description": "mocha_benefits_slides_1_description",
+            "asset": "mocha_ac_1_image"
+        },
+        {
+            "order": 1,
+            "title": "mocha_benefits_slides_2_title",
+            "description": "mocha_benefits_slides_2_description",
+            "asset": "mocha_ac_2_image"
+        },
+        {
+            "order": 2,
+            "title": "mocha_benefits_slides_3_title",
+            "description": "mocha_benefits_slides_3_description",
+            "asset": "mocha_ac_3_image"
+        },
+        {
+            "order": 3,
+            "title": "mocha_benefits_slides_4_title",
+            "description": "mocha_benefits_slides_4_description",
+            "asset": "mocha_ac_4_image"
+        }
+    ]
+}

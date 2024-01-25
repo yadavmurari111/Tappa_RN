@@ -1,0 +1,41 @@
+{
+  "ac1_activation_bg_color": "#FFFFFF",
+  "ac2_activation_text_color": "#343747",
+  "ac3_splash_bg_color": "#3D95F8",
+  "ac4_splash_text_color": "#FFFFFF",
+  "ac5_activation_secondary_color": "#343747",
+  "ac6_main_color_foreground_color": "#E7DE5F",
+  "ac7_main_color": "#343747",
+  "ac_steps_graphic1_image": "ac_steps_graphic1_image",
+  "ac_steps_graphic2_image": "ac_steps_graphic2_image",
+  "activation_1_image": "activation_1_image",
+  "activation_2_image": "activation_2_image",
+  "ob_success_header_logo_image": "ob_success_header_logo_image",
+  "splash_logo_image": "splash_logo_image",
+  "slides": [
+    {
+      "order": 0,
+      "title": "Onboarding Slide 1 title",
+      "description": "Onboarding Slide 1 subtitle",
+      "asset": "ac_1_image"
+    },
+    {
+      "order": 1,
+      "title": "Onboarding Slide 2 title",
+      "description": "Onboarding Slide 2 subtitle",
+      "asset": "ac_2_image"
+    },
+    {
+      "order": 2,
+      "title": "Onboarding Slide 3 title",
+      "description": "Onboarding Slide 3 subtitle",
+      "asset": "ac_3_image"
+    },
+    {
+      "order": 3,
+      "title": "Onboarding Slide 4 title",
+      "description": "Onboarding Slide 4 subtitle",
+      "asset": "ac_4_image"
+    }
+  ]
+}

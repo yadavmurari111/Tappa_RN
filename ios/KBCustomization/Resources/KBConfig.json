@@ -1,0 +1,13 @@
+{
+  "display_name_default": "Tappa Demo",
+  "campaign_id": "nxb1a1Ja2nTRH95AXkDrbj",
+  "appsflyer_key": "N/A",
+  "app_short_version": "1.0.0",
+  "app_long_version": "1.0.0",
+  "apple_team_id": "",
+  "package_name": "com.tappa.reactnative-demo",
+  "package_name_short": "com.tappa.reactnative-demo",
+  "apple_app_id": "",
+  "url_scheme": "tappa-reactnative",
+  "is_dismiss_activation_present": true
+}

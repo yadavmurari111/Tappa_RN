@@ -1,0 +1,71 @@
+[
+    {
+        "order": 0,
+        "buttonType": "brand",
+        "useTint": false,
+        "iconResource": "mocha_push_notification_icon",
+        "url": "https://www.google.ro"
+    },
+    {
+        "order": 1,
+        "buttonType": "gifs",
+        "useTint": true
+    },
+    {
+        "order": 2,
+        "buttonType": "stickers",
+        "useTint": true
+    },
+    {
+        "order": 3,
+        "buttonType": "socialHub",
+        "useTint": true,
+        "include": [
+            "twitch",
+            "tiktok",
+            "facebook",
+            "instagram",
+            "rss"
+        ]
+    },
+    {
+        "order": 4,
+        "buttonType": "tappaText",
+        "useTint": true,
+        "iconResource": "mocha_tappa_text_icon"
+    },
+    {
+        "order": 5,
+        "buttonType": "themes",
+        "useTint": true
+    },
+    {
+        "order": 6,
+        "buttonType": "webView",
+        "useTint": true,
+        "url": "https://assets.kee2.com/customer/i1PmcLkgzFzyB5LuuQrju1/index.html"
+    },
+    {
+        "order": 7,
+        "buttonType": "webLink",
+        "useTint": true,
+        "url": "https://www.tappa.com",
+        "iconResource": "mocha_tappa_browser_toolbar_button",
+        "title": "tappa_weblink_title"
+    },
+    {
+        "order": 8,
+        "buttonType": "settings",
+        "useTint": true
+    },
+    {
+        "order": 9,
+        "buttonType": "clipboard",
+        "useTint": true
+    },
+    {
+        "order": 10,
+        "buttonType": "embeddedBrowser",
+        "useTint": true
+    }
+]

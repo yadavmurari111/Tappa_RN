@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">KeyboardOldRN</string>
+          <!-- Keyboard SDK -->
+    <string name="mocha_keyboard_name">Tappa Demo Keyboard</string>
+    <string name="mocha_spell_checker_name">Tappa Demo Spell Checker</string>
+    <string name="mocha_spell_checker_settings_name">Tappa Demo Spell Checker Settings</string>
+
+    <!-- Activation -->
+    <!-- Splash -->
+    <string name="mocha_activation_splash_button_text">Get started!</string>
+    <string name="mocha_setup_splash_privacy_policy">I agree to the <a href="https://www.tappa.com/terms-of-service">Terms of use</a> and <a href="https://www.tappa.com/privacy-policy-keyboards">Privacy Policy</a></string>
+
+    <!-- Activation Steps -->
+    <string name="mocha_setup_activation_enable_step">1</string>
+    <string name="mocha_setup_activation_switch_step">2</string>
+
+    <!-- Activation Button -->
+    <string name="mocha_activation_lets_go">Let’s Go</string>
+
+    <!-- Benefits Slide 1 -->
+    <string name="mocha_benefits_slides_1_title">TappaText</string>
+    <string name="mocha_benefits_slides_1_description">Let our OpenAI-powered assistant help you elevate your conversations.</string>
+
+    <!-- Benefits Slide 2 -->
+    <string name="mocha_benefits_slides_2_title">Customize With Color</string>
+    <string name="mocha_benefits_slides_2_description">Make it yours with over 15 original themes.</string>
+
+    <!-- Benefits Slide 3 -->
+    <string name="mocha_benefits_slides_3_title">Chat With Character</string>
+    <string name="mocha_benefits_slides_3_description">Loaded with regularly updated custom stickers.</string>
+
+    <!-- Benefits Slide 4 -->
+    <string name="mocha_benefits_slides_4_title">Post With Privacy</string>
+    <string name="mocha_benefits_slides_4_description">Your typed information is kept private while search data is shared with the provider to improve your search experience.</string>
+
+    <!-- Activation Success -->
+    <string name="mocha_activation_success_finish">Finish</string>
+</resources>

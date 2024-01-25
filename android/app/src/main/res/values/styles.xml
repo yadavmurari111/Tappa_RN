@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+<style name="MochaActivationTheme" parent="MochaActivationThemeDefault" tools:ignore="PrivateResource" tools:override="true">
+        <!-- Benefits screen background color -->
+        <item name="mocha_ac1_activation_bg_color">#FFFFFF</item>
+        <!-- Benefits screen text color -->
+        <item name="mocha_ac2_activation_text_color">#333333</item>
+        <!-- Splash screen background color -->
+        <item name="mocha_ac3_splash_bg_color">#0096FF</item>
+        <!-- Splash screen text color -->
+        <item name="mocha_ac4_splash_text_color">#FFFFFF</item>
+        <!-- Secondary color - used as splash screen button background -->
+        <item name="mocha_ac5_activation_secondary_color">#333748</item>
+        <!-- Main foreground color - used in splash & benefits screen button labels -->
+        <item name="mocha_ac6_main_color_foreground_color">#FFFFFF</item>
+        <!-- Main foreground color - used as benefits screen button background -->
+        <item name="mocha_ac7_main_color">#0096FF</item>
+        <!-- Splash screen logo -->
+        <item name="mocha_ac_splash_logo">@drawable/android_splash_logo</item>
+        <!-- Add keyboard screen step 1 graphic -->
+        <item name="mocha_ac_add_keyboard_image">@drawable/mocha_ac_steps_graphic1_image</item>
+        <!-- Add keyboard screen step 2 graphic -->
+        <item name="mocha_ac_switch_keyboard_image">@drawable/mocha_ac_steps_graphic2_image</item>
+        <!-- Success screen graphic -->
+        <item name="mocha_ac_success_logo">@drawable/mocha_ob_success_header_logo_image</item>
+    </style>
+</resources>
